@@ -1,0 +1,13 @@
+{
+  "name": "micro-test-a",
+  "version": "1.0.0",
+  "description": "Servicio de prueba A para gestor de microservicios",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
